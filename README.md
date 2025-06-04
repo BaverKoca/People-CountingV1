@@ -6,12 +6,8 @@ This application uses the powerful YOLOv5x model to count people in videos or Yo
 
 ---
 
-## Test Videos
-# Upload Video
-
-
-# Youtube live URL
-
+## Test Video
+https://github.com/user-attachments/assets/edc59627-213e-4afa-92ec-41c138c49a72
 
 ---
 
@@ -63,6 +59,11 @@ python -m streamlit run people_counter_app.py
 - For YouTube live, the app processes the stream directly (no download required).
 - Processing speed depends on your hardware and video resolution.
 - For best results in crowded scenes, the app uses the YOLOv5x model.
+
+---
+
+## ⚠️ Legal Warning:
+-The legality of downloading content from YouTube and similar platforms depends on the license and intended use of the content. In particular, downloading copyrighted content without permission may be illegal.
 
 ---
 
