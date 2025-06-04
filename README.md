@@ -67,5 +67,5 @@ python -m streamlit run people_counter_app.py
 
 ---
 
-## ℹ️ Biggest Disadvantage
+## ℹ️ Disadvantage
 -YOLOv5x.pt is not enough for crowded(more than 50-100 people). If you need more trustable and powerful than that then you can use People-CountingV2 which is using YOLOv8x.pt.
